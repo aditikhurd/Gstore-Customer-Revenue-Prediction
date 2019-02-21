@@ -1,0 +1,4 @@
+-	Implemented an algorithm for predictive analysis of revenue of GStore customers using Linear Regression based on a dataset provided by Kaggle
+-	Developed and evaluated data pre-processing technique using Pandas, performed feature engineering and transformation
+-	Implemented using gradient boosting regressor
+- Technologies used: Python | Pandas | NumPy | SKLearn | Seaborn | Matplotlib | LightGBM
